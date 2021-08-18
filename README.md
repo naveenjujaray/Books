@@ -1,6 +1,6 @@
 # Books
 # Table of Contents
-* [Data Analytics] (Data Analytics)
+* [Data Analytics] (#data-analytics)
 
-# Data Analytics
+# <a name="data-analytics"></a>Data Analytics
  * [The Beginner's Guide to Google Analytics - Darren McManus]()
