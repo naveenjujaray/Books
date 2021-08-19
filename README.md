@@ -39,9 +39,11 @@
    The purpose of this eBook is to explain Google Analytics as clearly and simply as possible and to provide small and medium businesses with the information they need to make    Google Analytics work for them.
  
  * [Advanced Google Advanced Google Analytics](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Advanced%20Google%20Advanced%20Google%20Analytics.pdf)
+    
     by Daragh Walsh
  
  * [Google Analytics for Google Analytics for Beginners](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Google%20Analytics%20for%20Google%20Analytics%20for%20Beginners.pdf)
+    
     by Daragh Walsh
 # <a name="ms-excel"></a>Microsoft Excel
 
