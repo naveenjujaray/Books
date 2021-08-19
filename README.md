@@ -51,9 +51,7 @@
   
   This book is intended for business intelligence professionals responsible for either the development of Power BI solutions or the management and administration of a Power BI deployment.
 
-* [Microsoft-Introducing Power BI](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Microsoft-Introducing%20Power%20BI.pdf)
-  
-  Introduction to Power BI by Alberto Ferrari and Marco Russo
+* [Microsoft-Introducing Power BI](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Microsoft-Introducing%20Power%20BI.pdf) - by Alberto Ferrari and Marco Russo
 
 * [P3 Adaptive Cheat Codes](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/P3%20Adaptive%20Cheat%20Codes.pdf)
 
