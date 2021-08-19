@@ -18,15 +18,15 @@
 # <a name="data-science"></a>Data Science
 
   ### Notes
-  * [Descriptive Statistics-Notes]()
-  * [Hypothesis Testing-Notes]()
-  * [Inferential Statistics-Notes]()
-  * [Regression Analysis-Notes]()
+  * [Descriptive Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Descriptive%20Statistics-Notes.pdf)
+  * [Hypothesis Testing-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Hypothesis%20Testing-Notes.pdf)
+  * [Inferential Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Inferential%20Statistics-Notes.pdf)
+  * [Regression Analysis-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Regression%20Analysis-Notes.pdf)
 # <a name="data-warehouse"></a>Data Warehouse
 
-* [Star Schema The Complete Reference - Christopher Adamson]()
+* [Kimball The-Data Warehouse Toolkit 3rd Edition](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Kimball%20The-Data%20Warehouse%20Toolkit%203rd%20Edition.pdf)
 
-* [Kimball The-Data Warehouse Toolkit 3rd Edition]()
+* [Star Schema The Complete Reference - Christopher Adamson](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Star%20Schema%20The%20Complete%20Reference%20-%20Christopher%20Adamson.pdf)
 
 # <a name="google-analytics"></a>Google Analytics
 
@@ -36,7 +36,7 @@
 
 # <a name="ms-excel"></a>Microsoft Excel
 
-  * [Common Excel Windows Shortcuts]()
+  * [Common Excel Windows Shortcuts](https://github.com/naveenjujaray/Books/raw/main/Library/Microsoft%20Excel/Common%20Excel%20Windows%20Shortcuts.pdf)
 
 # <a name="power-bi"></a>Power BI
 
@@ -58,4 +58,4 @@
 
 # <a name="sql"></a>Structured Query Language (SQL)
 
-  * [SQL Cheatsheet (Oracle+Master)]()
+  * [SQL Cheatsheet (Oracle+Master)](https://github.com/naveenjujaray/Books/raw/main/Library/Structured%20Query%20Language%20(SQL)/SQL%20Cheatsheet%20(Oracle%2BMaster).pdf)
