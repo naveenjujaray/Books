@@ -37,7 +37,12 @@
  * [The Beginner's Guide to Google Analytics - Darren McManus](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Analytics/The%20Beginners%20Guide%20to%20Google%20Analytics-Darren%20McManus.pdf)
   
    The purpose of this eBook is to explain Google Analytics as clearly and simply as possible and to provide small and medium businesses with the information they need to make    Google Analytics work for them.
-
+ 
+ * [Advanced Google Advanced Google Analytics]()
+    by Daragh Walsh
+ 
+ * [Google Analytics for Google Analytics for Beginners]()
+    by Daragh Walsh
 # <a name="ms-excel"></a>Microsoft Excel
 
   * [Common Excel Windows Shortcuts](https://github.com/naveenjujaray/Books/raw/main/Library/Microsoft%20Excel/Common%20Excel%20Windows%20Shortcuts.pdf)
