@@ -17,11 +17,12 @@
 
 # <a name="data-science"></a>Data Science
 
-  ### Notes
-* [Descriptive Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Descriptive%20Statistics-Notes.pdf)
-* [Hypothesis Testing-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Hypothesis%20Testing-Notes.pdf)
-* [Inferential Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Inferential%20Statistics-Notes.pdf)
-* [Regression Analysis-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Regression%20Analysis-Notes.pdf)
+    ### Notes
+  * [Descriptive Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Descriptive%20Statistics-Notes.pdf)
+  * [Hypothesis Testing-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Hypothesis%20Testing-Notes.pdf)
+  * [Inferential Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Inferential%20Statistics-Notes.pdf)
+  * [Regression Analysis-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Regression%20Analysis-Notes.pdf)
+  
 # <a name="data-warehouse"></a>Data Warehouse
 
 * [Kimball The-Data Warehouse Toolkit 3rd Edition](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Kimball%20The-Data%20Warehouse%20Toolkit%203rd%20Edition.pdf)
@@ -55,11 +56,11 @@
 
 * [P3 Adaptive Cheat Codes](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/P3%20Adaptive%20Cheat%20Codes.pdf)
 
-  ### Rookie to Rockstar Series - Reza Rad
-* [Power BI Power BI Essentials Reza Rad Book-01](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Power%20BI%20Essentials%20Reza%20Rad%20Book-01.pdf)
-* [Power BI Visualization_In Power BI Reza Rad Book-02](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Visualization%20In%20Power%20BI%20Reza%20Rad%20Book-02.pdf)
-* [Power BI Power Query and Data Transformation In Power BI Reza Rad Book-03](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Power%20Query%20and%20Data%20Transformation%20In%20Power%20BI%20Reza%20Rad%20Book-03.pdf)
-* [Power BI Modeling and DAX Reza Rad Book-04](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Modeling%20and%20DAX%20Reza%20Rad%20Book-04.pdf)
+    ### Rookie to Rockstar Series - Reza Rad
+  * [Power BI Power BI Essentials Reza Rad Book-01](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Power%20BI%20Essentials%20Reza%20Rad%20Book-01.pdf)
+  * [Power BI Visualization_In Power BI Reza Rad Book-02](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Visualization%20In%20Power%20BI%20Reza%20Rad%20Book-02.pdf)
+  * [Power BI Power Query and Data Transformation In Power BI Reza Rad Book-03](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Power%20Query%20and%20Data%20Transformation%20In%20Power%20BI%20Reza%20Rad%20Book-03.pdf)
+  * [Power BI Modeling and DAX Reza Rad Book-04](https://github.com/naveenjujaray/Books/raw/main/Library/Power%20BI/Power%20BI%20Modeling%20and%20DAX%20Reza%20Rad%20Book-04.pdf)
 
 # <a name="sql"></a>Structured Query Language (SQL)
 
