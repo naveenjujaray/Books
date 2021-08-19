@@ -17,11 +17,11 @@
 
 # <a name="data-science"></a>Data Science
     
-    ### Notes
-  * [Descriptive Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Descriptive%20Statistics-Notes.pdf)
-  * [Hypothesis Testing-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Hypothesis%20Testing-Notes.pdf)
-  * [Inferential Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Inferential%20Statistics-Notes.pdf)
-  * [Regression Analysis-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Regression%20Analysis-Notes.pdf)
+  ### Notes
+* [Descriptive Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Descriptive%20Statistics-Notes.pdf)
+* [Hypothesis Testing-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Hypothesis%20Testing-Notes.pdf)
+* [Inferential Statistics-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Inferential%20Statistics-Notes.pdf)
+* [Regression Analysis-Notes](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Science/Regression%20Analysis-Notes.pdf)
 # <a name="data-warehouse"></a>Data Warehouse
 
 * [Kimball The-Data Warehouse Toolkit 3rd Edition](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Kimball%20The-Data%20Warehouse%20Toolkit%203rd%20Edition.pdf)
