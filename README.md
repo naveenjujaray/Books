@@ -17,14 +17,8 @@
 
 * [Brett Powell-Mastering Microsoft Power BI-Issue 2018]()
   <p style='text-align: justify;'>
-  This book is intended for business intelligence professionals responsible for either the
-  development of Power BI solutions or the management and administration of a Power BI
-  deployment. BI developers can use this as a reference guide to features and techniques to
-  enhance their solutions. Likewise, BI managers interested in a broad conceptual
-  understanding, as well as processes and practices to inform their delivery of Power BI, will
-  find this a useful resource. Experience of creating content on Power BI Desktop and sharing
-  content on the Power BI service will be helpful.
-  </p>
+  This book is intended for business intelligence professionals responsible for either the development of Power BI solutions or the management and administration of a Power BI deployment. BI developers can use this as a reference guide to features and techniques to enhance their solutions. Likewise, BI managers interested in a broad conceptual understanding, as well as processes and practices to inform their delivery of Power BI, will find this a useful resource. Experience of creating content on Power BI Desktop and sharing
+  content on the Power BI service will be helpful.</p>
 
 * [Microsoft-Introducing Power BI]()
 
