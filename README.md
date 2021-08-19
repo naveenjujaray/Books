@@ -1,6 +1,6 @@
 # Books 
 
-![stars](https://img.shields.io/github/stars/naveenjujaray/Books?color=#FE251B&label=Love&style=for-the-badge)
+![stars](https://img.shields.io/github/stars/naveenjujaray/Books?color=red&label=Love&style=for-the-badge)
 
 # Table of Contents
 
