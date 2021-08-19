@@ -1,4 +1,4 @@
-# Books ![stars](https://img.shields.io/github/stars/naveenjujaray/books?color=red)
+# Books ![stars](https://img.shields.io/github/stars/naveenjujaray/books?color=red) ![license](https://img.shields.io/github/license/naveenjujaray/books?color=yellow)
 
 # Table of Contents
 
