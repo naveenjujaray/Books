@@ -1,4 +1,4 @@
-# Books [![stars](https://img.shields.io/github/stars/naveenjujaray/books?color=red)](https://github.com/naveenjujaray/Books/stargazers) [![license](https://img.shields.io/github/license/naveenjujaray/books?color=yellow)](https://github.com/naveenjujaray/Books/blob/main/LICENSE) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/naveenjujaray/Books)
+# Books [![stars](https://img.shields.io/github/stars/naveenjujaray/books?color=red)](https://github.com/naveenjujaray/Books/stargazers) [![license](https://img.shields.io/github/license/naveenjujaray/books?color=yellow)](https://github.com/naveenjujaray/Books/blob/main/LICENSE) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://naveenjujaray.github.io/Books/)
 
 # Table of Contents
 
