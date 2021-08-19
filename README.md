@@ -34,16 +34,16 @@
 
 # <a name="google-analytics"></a>Google Analytics
 
- * [The Beginner's Guide to Google Analytics - Darren McManus](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Analytics/The%20Beginners%20Guide%20to%20Google%20Analytics-Darren%20McManus.pdf)
+* [The Beginner's Guide to Google Analytics - Darren McManus](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Analytics/The%20Beginners%20Guide%20to%20Google%20Analytics-Darren%20McManus.pdf)
   
    The purpose of this eBook is to explain Google Analytics as clearly and simply as possible and to provide small and medium businesses with the information they need to make    Google Analytics work for them.
  
- * [Advanced Google Advanced Google Analytics](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Advanced%20Google%20Advanced%20Google%20Analytics.pdf) - by Daragh Walsh
+* [Advanced Google Advanced Google Analytics](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Advanced%20Google%20Advanced%20Google%20Analytics.pdf) - by Daragh Walsh
  
- * [Google Analytics for Google Analytics for Beginners](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Google%20Analytics%20for%20Google%20Analytics%20for%20Beginners.pdf) - by Daragh Walsh
+* [Google Analytics for Google Analytics for Beginners](https://github.com/naveenjujaray/Books/raw/main/Library/Google%20Analytics/Google%20Analytics%20for%20Google%20Analytics%20for%20Beginners.pdf) - by Daragh Walsh
 # <a name="ms-excel"></a>Microsoft Excel
 
-  * [Common Excel Windows Shortcuts](https://github.com/naveenjujaray/Books/raw/main/Library/Microsoft%20Excel/Common%20Excel%20Windows%20Shortcuts.pdf)
+* [Common Excel Windows Shortcuts](https://github.com/naveenjujaray/Books/raw/main/Library/Microsoft%20Excel/Common%20Excel%20Windows%20Shortcuts.pdf)
 
 # <a name="power-bi"></a>Power BI
 
