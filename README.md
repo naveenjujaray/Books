@@ -2,11 +2,11 @@
 
 # Table of Contents
 
-* [Data Analytics](#data-analytics)
+* [Google Analytics](#google-analytics)
 
 * [Power BI](#power-bi)
 
-# <a name="data-analytics"></a>Data Analytics
+# <a name="Google-analytics"></a>Google Analytics
 
  * [The Beginner's Guide to Google Analytics - Darren McManus](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Analytics/The%20Beginners%20Guide%20to%20Google%20Analytics-Darren%20McManus.pdf)
   
