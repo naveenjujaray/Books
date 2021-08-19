@@ -25,8 +25,12 @@
 # <a name="data-warehouse"></a>Data Warehouse
 
 * [Kimball The-Data Warehouse Toolkit 3rd Edition](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Kimball%20The-Data%20Warehouse%20Toolkit%203rd%20Edition.pdf)
+  
+  This book is intended for data warehouse and business intelligence designers, implementers, and managers. In addition, business analysts and data stewards who are active participants in a DW/BI initiative will fi nd the content useful.
 
 * [Star Schema The Complete Reference - Christopher Adamson](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Star%20Schema%20The%20Complete%20Reference%20-%20Christopher%20Adamson.pdf)
+
+  This book has been designed as a complete, in-depth reference for anyone who works with dimensional data—the star, the snowflake, or the cube.
 
 # <a name="google-analytics"></a>Google Analytics
 
