@@ -40,6 +40,8 @@
 * [An Introduction to Genetic Algorithms]() - by Melanie Mitchell
 
 * [Artificial Intelligence A Modern Approach, 4th US ed.](https://github.com/naveenjujaray/Books/raw/main/Library/Deep%20Learning/Artificial%20Intelligence-by%20Stuart%20Russell%20and%20Peter%20Norvig.pdf) - by Stuart Russell and Peter Norvig
+
+
 # <a name="google-analytics"></a>Google Analytics
 
 * [The Beginner's Guide to Google Analytics - Darren McManus](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Analytics/The%20Beginners%20Guide%20to%20Google%20Analytics-Darren%20McManus.pdf)
