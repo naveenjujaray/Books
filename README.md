@@ -5,6 +5,8 @@
 * [Data Science](#data-science)
 
 * [Data Warehouse](#data-warehouse)
+
+* [Deep Learning](#deep-learning)
   
 * [Google Analytics](#google-analytics)
 
@@ -32,6 +34,12 @@
 * [Star Schema The Complete Reference - Christopher Adamson](https://github.com/naveenjujaray/Books/raw/main/Library/Data%20Warehouse/Star%20Schema%20The%20Complete%20Reference%20-%20Christopher%20Adamson.pdf)
 
   This book has been designed as a complete, in-depth reference for anyone who works with dimensional data—the star, the snowflake, or the cube.
+
+# <a name="deep-learning"></a>Deep Learning
+
+* [Artificial Intelligence A Modern Approach, 4th US ed.]() 
+  
+  by Stuart Russell and Peter Norvig
 
 # <a name="google-analytics"></a>Google Analytics
 
