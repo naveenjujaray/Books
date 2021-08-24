@@ -37,9 +37,7 @@
 
 # <a name="deep-learning"></a>Deep Learning
 
-* [Artificial Intelligence A Modern Approach, 4th US ed.]() 
-  
-  by Stuart Russell and Peter Norvig
+* [Artificial Intelligence A Modern Approach, 4th US ed.](https://github.com/naveenjujaray/Books/raw/main/Library/Deep%20Learning/Artificial%20Intelligence-by%20Stuart%20Russell%20and%20Peter%20Norvig.pdf) - by Stuart Russell and Peter Norvig
 
 # <a name="google-analytics"></a>Google Analytics
 
